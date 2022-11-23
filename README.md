@@ -1,6 +1,6 @@
 <h2 align="center">Custom Terraform Modules 101: Create, version, and publish on GitHub</h2>
 
-This repository is used as a demo for my medium blog. It sources a [custom module created on github](https://github.com/yemisprojects/s3_website_module_demo).
+This repository is used as a demo for my [medium blog post](https://yemiodunade.medium.com/terraform-modules-101-create-version-and-publish-on-github-4455f3673559). It sources a [demo custom module published on github](https://github.com/yemisprojects/s3_website_module_demo).
 
 ## Pre-requisites
 - Terraform CLI (1.0+) installed
