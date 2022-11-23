@@ -10,6 +10,6 @@ output "bucket_arn" {
 
 output "bucket_website_endpoint" {
   description = "The website endpoint of the bucket"
-  value       = module.my_static_website.bucket_website_endpoint
+  value       = "http://${module.my_static_website.bucket_website_endpoint}"
 }
 
