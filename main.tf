@@ -9,5 +9,5 @@ module "my_static_website" {
 
 }
 
-#If a module is in a sub-folder
+#If a module is in a sub-folder, use
 # source = "github.com/yemisprojects/s3_website_module_demo//<PATH>?ref=v0.0.1"
