@@ -2,6 +2,8 @@
 
 This repository is used as a demo for my [medium blog post](https://yemiodunade.medium.com/terraform-modules-101-create-version-and-publish-on-github-4455f3673559). The terraform configuration calls my [demo custom module published on github](https://github.com/yemisprojects/s3_website_module_demo).
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0" alt="Recent Article 0"> 
+
 ## Pre-requisites
 - Terraform CLI (1.0+) installed
 - An AWS account and user account with admin permissions
