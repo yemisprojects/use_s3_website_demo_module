@@ -2,12 +2,10 @@
 
 This repository is used as a demo for my [medium blog post](https://yemiodunade.medium.com/terraform-modules-101-create-version-and-publish-on-github-4455f3673559). The terraform configuration calls my [demo custom module published on github](https://github.com/yemisprojects/s3_website_module_demo).
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0" alt="Recent Article 0"> 
-
-[![Image](https://github.com/yemisprojects/blog_screenshots/blob/main/terraform_module_blog.png "Terraform Modules 101: Create, version, and publish on GitHub")](https://medium.com/@yemiodunade/terraform-modules-101-create-version-and-publish-on-github-4455f3673559)
-
+[![Image](https://github.com/yemisprojects/aws-codepipeline-s3-website-private/blob/main/images/terraform_module_blog.png "Terraform Modules 101: Create, version, and publish on GitHub")](https://medium.com/@yemiodunade/terraform-modules-101-create-version-and-publish-on-github-4455f3673559)
 
 ## Pre-requisites
+
 - Terraform CLI (1.0+) installed
 - An AWS account and user account with admin permissions
 - AWS CLI (2.0+) installed
